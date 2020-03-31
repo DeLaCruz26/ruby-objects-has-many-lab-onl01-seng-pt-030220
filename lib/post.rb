@@ -9,6 +9,6 @@ attr_accessor :name
     @@all << self
   end
 
-  def 
+  def
 
 end
