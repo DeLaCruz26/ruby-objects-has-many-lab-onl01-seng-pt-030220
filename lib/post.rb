@@ -9,6 +9,7 @@ attr_accessor :title
     @@all << self
   end
 
-  def
-
+  def self.all
+    @@all
+    emd
 end
