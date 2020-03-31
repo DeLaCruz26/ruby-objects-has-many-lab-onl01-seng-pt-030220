@@ -14,7 +14,7 @@ attr_accessor :title, :author
   end
 
   def author_name
-    self.author ? artist.name : nil
+    self.author ? author.name : nil
   end
 
 end
