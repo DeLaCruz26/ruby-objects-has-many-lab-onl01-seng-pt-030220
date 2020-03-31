@@ -14,5 +14,5 @@ attr_accessor :title, :author
   end
 
   
-  
+
 end
