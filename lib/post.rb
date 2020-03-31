@@ -11,5 +11,5 @@ attr_accessor :title
 
   def self.all
     @@all
-    emd
+  end
 end
