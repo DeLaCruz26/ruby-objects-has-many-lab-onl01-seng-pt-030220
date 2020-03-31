@@ -14,7 +14,7 @@ attr_accessor :title, :author
   end
 
   def author_name
-    self.author.name
+    post.author = Self
   end
 
 end
